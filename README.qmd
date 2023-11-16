@@ -1,0 +1,53 @@
+---
+title:       Story Telling with Data
+author:      Notes by Daniel Carpenter
+
+date:        today
+date-format: 'MMM-YY'
+
+format: 
+  gfm:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    
+editor: source
+---
+
+> [Udemy Course Here](https://www.udemy.com/course/unlock-the-story-from-data/)
+
+<br>
+
+# Intro
+
+## Principles of Storytelling
+
+1.  **Influence over Creativity**: Focus on influence rather than on creativity or design quality.
+2.  **Story Precedes Evidence**: Establish the story before presenting evidence.
+3.  **Project Outline First**: Start with an outline of ideas.
+
+## Developing a Narrative Structure in Design
+
+> **Single Story Focus**: Maintain emphasis on one story throughout the message.
+
+## Story Structures
+
+| Stage      | Description                                                                             |
+|---------------|--------------------------------------------------------|
+| Setup      | Introduce characters and context, outline goals and the story's importance.             |
+| Conflict   | Identify and capture the conflict using various sources like data anomalies and briefs. |
+| Resolution | Detail the decision and resolution of the story.                                        |
+
+## Effective Methods of Storytelling
+
+| Type               | Description                                                                     |
+|------------------|------------------------------------------------------|
+| Deductive          | Start with a hypothetical answer, establish a point of view, then observe.      |
+| Tree Method        | Begin with a hypothesis, support with reasons, and back with evidence.          |
+| **SCQA Framework** | **Structure storytelling using Situation, Complication, Question, and Answer.** |
+
+# Create: Incorporating Engagement Techniques
+
+# Execute: Bringing stories to life
+
+# Embed: Going pro with data storytelling
