@@ -18,6 +18,10 @@ editor: source
 
 <br>
 
+Takeaways
+
+![](img/1.png)
+
 # Intro
 
 ## Principles of Storytelling
@@ -33,7 +37,7 @@ editor: source
 ## Story Structures
 
 | Stage      | Description                                                                             |
-|---------------|--------------------------------------------------------|
+|------------|-----------------------------------------------------------------------------------------|
 | Setup      | Introduce characters and context, outline goals and the story's importance.             |
 | Conflict   | Identify and capture the conflict using various sources like data anomalies and briefs. |
 | Resolution | Detail the decision and resolution of the story.                                        |
@@ -41,13 +45,69 @@ editor: source
 ## Effective Methods of Storytelling
 
 | Type               | Description                                                                     |
-|------------------|------------------------------------------------------|
+|--------------------|---------------------------------------------------------------------------------|
 | Deductive          | Start with a hypothetical answer, establish a point of view, then observe.      |
 | Tree Method        | Begin with a hypothesis, support with reasons, and back with evidence.          |
 | **SCQA Framework** | **Structure storytelling using Situation, Complication, Question, and Answer.** |
 
+Here's a concise outline in markdown format, organizing the information on engagement techniques, personal stories, digesting data, and finishing scenarios:
+
 # Create: Incorporating Engagement Techniques
 
-# Execute: Bringing stories to life
+## Takeaways
 
-# Embed: Going pro with data storytelling
+1.  **Use Existing Archetypes**: Don't reinvent the wheel; utilize familiar story archetypes.
+2.  **Relatability**: Make the story relatable to the audience.
+3.  **Audience Involvement**: Engage the audience actively in the story.
+
+## Titles
+
+| Criteria       | Description                               |
+|----------------|-------------------------------------------|
+| Useful         | Should be beneficial and relevant.        |
+| Urgent         | Convey why the story is important now.    |
+| Unique         | Highlight what makes the story stand out. |
+| Ultra-Specific | Be precise and clear about the content.   |
+
+-   **Effective Title Types**:
+    -   How-to Guides
+    -   Lists (e.g., "N Things You Should Do")
+    -   Questions
+    -   Inclusion of Verbs
+
+## Hooks
+
+-   **Types of Hooks**:
+    -   Killer Stat
+    -   Quote
+    -   Question (e.g., "How would you feel if...")
+    -   Comparison (e.g., what another company did)
+    -   Scenario (e.g., "What if...")
+    -   Confession
+
+## Personal Stories
+
+-   **Benefits**:
+    -   Provide new, authentic material.
+    -   Relatable to the audience.
+-   **Types**:
+    -   Personal interactions or experiences.
+    -   Customer stories to individualize and apply real attitudes.
+    -   Case studies to see expert approaches.
+
+## Digesting Data
+
+-   **Technique**: Use metaphors as a visual aid to unpack data.
+-   **Avoidance**: Steer clear of random, cliché, offensive, or overused metaphors.
+
+## Finish a Scenario
+
+-   **Types**:
+    -   **Vision**: Imagining success ("What if we got it right?")
+    -   **Neutral**: Considering possibilities ("What if something happens?")
+    -   **Fork in Road**: Exploring alternatives ("What if we take another path?")
+    -   **Doomsday**: Contemplating failure ("What if we don't get it right?")
+
+# EXECUTE
+
+## 
